@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Node.js application that supports user authentication and post management functionalities. It follows a microservices architecture and uses MongoDB as the database.
+This project supports user authentication and post management functionalities. It follows a microservices architecture and uses MongoDB as the database.
 
 ## Features
 
